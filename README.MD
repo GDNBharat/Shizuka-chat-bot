@@ -9,17 +9,17 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/venombolteop/ChatBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/dattudd/Jummikchatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h4 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ᴠᴘs 」─
 </h4>
 
-- Get your [Necessary Variables](https://github.com/venombolteop/ChatBot/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/dattudd/Jummikchatbot/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
-`git clone https://github.com/venombolteop/ChatBot && cd ChatBot`
+`git clone https://github.com/dattudd/Jummikchatbot&& cd ChatBot`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
