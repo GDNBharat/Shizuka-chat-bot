@@ -9,8 +9,8 @@ API_HASH = getenv("API_HASH", "34f9cb93364db16fc45d003e4c81d97a")
 STRING_SESSION = getenv("STRING_SESSION", "BQGwyGIAl5-vMvM1R2lxBvxgjRG1Fel529FQ1LFI8nObFaV4pATif2vIlOGK11Zc5jv_EWmnYo61yWcW880noiYfWYMLuZFsEFBem9zVK9xcq7HYlTwThAGKY5r6Lo08eub1akRdz80NRssH5Fd5LhfcQsEJIxX0Px2fi4infV5CIHAPZ44eQPXgHHuI9pNV8AxoV225al35OgX7dqMP48KheShLPJDz_-ijR6odSauvgCrXg-STCLVV6HTv5p8TjLXwFJnO-MJZ5ntajJmtLAvJbpyYyZLoJkQRdB4fHewjRhCTsE54c-am_mUkuFH8-NyZEtd4_M1xE4YAEKJ0uSY_rx6HvQAAAAHETnMdAA")
 OWNER_ID = int(getenv("OWNER_ID", "6896043885"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
-SUPPORT_GRP = getenv("SUPPORT_GRP", "chinna_op")
-UPDATE_CHNL = getenv("UPDATE_CHNL", "chinna_op")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/TeluguFamGroup")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "https://t.me/TeluguFamGroup")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "DFSchinnaop")
 
 # Random Start Images
