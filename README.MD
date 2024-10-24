@@ -2,7 +2,7 @@
     ──「 ᴄʜᴀᴛʙᴏᴛ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/b55448f8abd23f24ee425.jpg">
+  <img src="https://envs.sh/Ai_.jpg">
 </p>
 
 <h3 align="center">
