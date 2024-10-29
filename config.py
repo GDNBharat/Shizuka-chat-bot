@@ -6,7 +6,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "28362850"))
 API_HASH = getenv("API_HASH", "34f9cb93364db16fc45d003e4c81d97a")
-STRING_SESSION = getenv("STRING_SESSION", "BQGwyGIAW23Dks2H3TY3Z6cT07pWcFQAerlaR5g_4AaD0mOwzQkBwc6Lqoq94DmrXDKtdLejx9qY0z-WHqsSRobSLOxwH-YZOII8VDilBV6Rt2sFUdEqine8XKfWS2aPRHnMnLre1oUmL7d8qs2b6JVmiaIKhyaDGpOaycgyntQfjr44WHh1qbP0A0Fcn5Du3RmpB3yCT-iGuuq_yRM2wSlgoe8kYmhKG4FvIwYIJGY1lJ7xpJP1nGs1fVOf9IjXnG4ByH1AW5Gb_bI14f1gl1hRp9vZLWWMs3dUhQAl1FrfyT-tsB3lMDOj-Y7-Y9AUUThpMsw56w-D7bch_lJd-rFdyyjEaQAAAAHETnMdAA")
+STRING_SESSION = getenv("STRING_SESSION", "BQGwyGIAgxozd8QYPQNDcZqOzJhSAw1LumoY9ghKNAM8t4ZEGvabpHwgNrTAdyKGzQn0QWtGgErlOoHOpdgc7Ua0dNvl7B6yNt-5T1KjjTtWPesc_5Vkez-_gm6PnqpIFKdCptvzpglY-LsMuT4MGPalYf2OwDufPe1e18HdXdYYSMWPeE0uc2CJrTh-5Jq2jIHCwD9U65fuX_Srv3RJl0RowmrzV-SnxIb9XlBKGGPu10SzMGYJKmU6hDUjVbxoWawl-5VQtsslfL2HaOBz33fI2nvrizbkBFFjGq9PQEWxPlg2pYk7UHyKG_HzPALglFjN6Z-7QZuhKANBvAF9vVsdGGvXSAAAAAHETnMdAA")
 OWNER_ID = int(getenv("OWNER_ID", "6896043885"))
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "https://t.me/TeluguFamGroup")
